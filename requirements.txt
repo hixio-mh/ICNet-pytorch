@@ -7,3 +7,4 @@ PyYAML==5.2
 requests==2.22.0
 tqdm==4.38.0
 opencv-python
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
