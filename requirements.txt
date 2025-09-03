@@ -3,6 +3,9 @@ torchsummary==1.5.1
 torchvision==0.3.0
  snyk-fix-8fec35efec6b47b8a9054fad2505153e
 numpy==1.17.0
+ dependabot/pip/pyyaml-5.4
+Pillow==6.0.0
+PyYAML==5.4
 Pillow==8.3.0
 PyYAML==5.2
 numpy==1.22.0rc1
