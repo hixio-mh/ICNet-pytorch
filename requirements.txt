@@ -1,13 +1,16 @@
 torch==2.7.0
 torchsummary==1.5.1
 torchvision==0.3.0
+ dependabot/pip/numpy-1.22.0
+numpy==1.22.0
  snyk-fix-8fec35efec6b47b8a9054fad2505153e
 numpy==1.17.0
  dependabot/pip/pillow-10.3.0
 Pillow==10.3.0
  dependabot/pip/pillow-9.0.1
 Pillow==9.0.1
- dependabot/pip/pyyaml-5.4
+ dependabot/pip/pyyaml-5.
+ master
 Pillow==6.0.0
 PyYAML==5.4
 Pillow==8.3.0
